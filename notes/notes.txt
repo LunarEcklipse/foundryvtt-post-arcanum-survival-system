@@ -1,0 +1,5 @@
+ActorSheet._onDropItem() and ActorSheet._onDropFolder() are good overrides to look at.
+
+We can theoretically calculate all the advancement data from just the XP count, so we opt to do that instead.
+
+TODO: Figure out why the eccentric erran button on the quirks sheet doesn't save and fix that.
