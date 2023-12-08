@@ -1,17 +1,21 @@
 {
   "id": "pass",
-  "title": "Boilerplate",
+  "title": "Post Arcanum Survival System",
   "description": "The Boilerplate system for FoundryVTT!",
   "authors": [
     {
-      "name": "Asacolips",
-      "discord": "asacolips"
+      "name": "LunarEcklipse",
+      "discord": "lunarecklipse"
+    },
+    {
+      "name": "That Sprite",
+      "discord": "thatsprite"
     }
   ],
-  "url": "Replace this with a link to your public repository",
+  "url": "https://github.com/LunarEcklipse/foundryvtt-post-arcanum-survival-system",
   "license": "LICENSE.txt",
   "readme": "README.md",
-  "bugs": "Replace this with a link to file issues or tickets",
+  "bugs": "https://github.com/LunarEcklipse/foundryvtt-post-arcanum-survival-system/issues",
   "changelog": "CHANGELOG.md",
   "media": [
     {
@@ -20,13 +24,13 @@
       "thumbnail": "systems/pass/assets/anvil-impact.png"
     }
   ],
-  "version": "1.3.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": 11,
     "verified": "11.315"
   },
-  "esmodules": ["module/boilerplate.mjs"],
-  "styles": ["css/boilerplate.css"],
+  "esmodules": ["module/pass.mjs"],
+  "styles": ["css/pass.css"],
   "languages": [
     {
       "lang": "en",
